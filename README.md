@@ -8,7 +8,7 @@ After analyzing and examining the data results among the three city types (urban
 PyBer Summary Dataframe:  
 ![PyBer_Summary_dataframe](https://user-images.githubusercontent.com/86338416/126919200-6152af12-341d-4fff-8569-f3596dd77fe6.PNG)  
 
-PyBer Total Fares by City Type:  
+[PyBer Total Fares by City Type](analysis/PyBer_fare_summary.png):  
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/86338416/126919215-92aafd65-a91e-414a-beda-246c71787a1c.png)  
 
 PyBer Ride Counts by City Type:  
