@@ -1,5 +1,5 @@
 # PyBer_Analysis
-I did this project at the beginning of the UC Berkeley Extension Data Analytics Bootcamp. I used Python to create basic plots based on a fictional ridesharing company's data. Libraries used include Matplotlib, NumPy, and Pandas.
+I did this project at the beginning of the UC Berkeley Extension Data Analytics Bootcamp. I used Python to create basic plots based on a fictional ride-sharing company's data. Libraries used include Matplotlib, NumPy, and Pandas.
 
 ## Overview  
 This project analyzes PyBer ride-sharing data to determine the accessibility and affordability of rides in various areas (broken into three categories: urban, rural, and suburban). The data include the date of rides, the city, the city type (urban, rural, suburban), the fare, the total number of drivers, and the ride ID.
