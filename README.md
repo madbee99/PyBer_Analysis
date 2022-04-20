@@ -10,20 +10,19 @@ After analyzing and examining the data results among the three city types (urban
 [PyBer Summary Dataframe](analysis/PyBer_Summary_dataframe.PNG):  
 ![PyBer_Summary_dataframe](https://user-images.githubusercontent.com/86338416/126919200-6152af12-341d-4fff-8569-f3596dd77fe6.PNG)  
 
-The pie charts below provide visualizations of the percent of the total number of PyBer rides and drivers (one chart for rides, one chart for drivers) from January through April 2019, categorized by city type (urban, rural, and suburban).  
+The pie charts below provide visualizations of the percent of the total number of PyBer rides and drivers (one chart for rides, one chart for drivers) from January through April 2019, categorized by city type (urban, rural, and suburban). As one can see from the pie charts, there is a strong correlation between the percent of drivers and percent of rides in each city type.  
 ![image](https://user-images.githubusercontent.com/86338416/164313734-9fe9deed-569b-467a-9325-ad0ce6827545.png)
 ![image](https://user-images.githubusercontent.com/86338416/164314388-bd691e86-b10f-49f5-a1c8-350e5876d11f.png)  
 
- 
-
-These results make sense because urban areas tend to be more densely populated, meaning that there would be more people needing rides and more drivers available, which corresponds with urban areas having the highest number of rides and drivers. In contrast, in rural areas there are fewer people, so it again makes sense that there would be fewer riders and drivers, resulting in the lowest number of rides and drivers. Since supply and demand are higher in the urban areas, the fares do not have to be as high as they are in the suburban and rural areas for PyBer to still make a profit from rides in urban areas. The line graph below shows how urban areas consistently produce the most money (total fares) for PyBer and the rural areas consistently produce the least amount of money (total fares), specifically on a weekly basis between January and April of 2019. The final box-and-whiskers plot below emphasizes how urban areas have the highest number of rides.
+These results make sense because urban areas tend to be more densely populated, meaning that there would be more people needing rides and more drivers available, which corresponds with urban areas having the highest number of rides and drivers. In contrast, in rural areas there are fewer people, so it again makes sense that there would be fewer riders and drivers, resulting in the lowest number of rides and drivers. Since supply and demand are higher in the urban areas, the fares do not have to be as high as they are in the suburban and rural areas for PyBer to still make a profit from rides in urban areas. The line graph below shows how urban areas consistently produce the most money (total fares) for PyBer and the rural areas consistently produce the least amount of money (total fares), specifically on a weekly basis between January and April of 2019.
 
 [PyBer Total Fares by City Type](analysis/PyBer_fare_summary.png):  
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/86338416/126919215-92aafd65-a91e-414a-beda-246c71787a1c.png)  
 
 [PyBer Ride Counts by City Type](analysis/Fig2.png):  
-![Fig2](https://user-images.githubusercontent.com/86338416/126919315-5e6dd4f1-0821-4ed7-a106-8254ba7236c2.png)
+![Fig2](https://user-images.githubusercontent.com/86338416/126919315-5e6dd4f1-0821-4ed7-a106-8254ba7236c2.png)  
 
+The box-and-whiskers plot below emphasizes how urban areas have the highest number of rides.  
 [PyBer Ride-Sharing Data (2019)](analysis/Fig1.png):  
 ![PyBer Ride-Sharing Data (2019)](https://github.com/madbee99/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
