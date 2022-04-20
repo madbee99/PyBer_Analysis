@@ -30,8 +30,7 @@ These results make sense because urban areas tend to be more densely populated, 
 Based on the results, it is clear that the ratio of number of drivers to riders is the highest in urban areas and the lowest in rural areas. I would recommend to the PyBer CEO that he or she 1) try to increase the number of riders in rural areas by providing first time user discount codes, incentivizing people to use their service, 2) try to increase the number of drivers in rural and suburban areas by providing bonuses to drivers who give rides in those areas (reallocating some of the current drivers in urban areas to rural and/or suburban areas), and 3) try to hire more drivers who already live in rural areas and will most likely want to stay closer to home, hopefully increasing the number of drivers available in rural areas. These steps will hopefully help balance out fares to be fairly similar regardless of city type, prompting more people in rural areas to use their service.
 
 
-
-
+## Resources
 Data provided by UC Berkeley Data Analytics Bootcamp.
 
 
