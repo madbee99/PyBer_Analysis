@@ -31,7 +31,7 @@ Based on the results, it is clear that the ratio of number of drivers to riders 
 
 
 ## Resources
-Data provided by UC Berkeley Data Analytics Bootcamp.
+Data provided by UC Berkeley Extension Data Analytics Bootcamp.
 
 
 
