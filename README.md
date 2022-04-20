@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Ridesharing Analysis
 I did this project at the beginning of the UC Berkeley Extension Data Analytics Bootcamp. I used Python to create basic plots based on a fictional ride-sharing company's data. Libraries used include Matplotlib, NumPy, and Pandas.
 
 ## Overview  
