@@ -16,14 +16,15 @@ The pie charts below provide visualizations of the percent of the total number o
 These results make sense because urban areas tend to be more densely populated, meaning that there would be more people needing rides and more drivers available, which corresponds with urban areas having the highest number of rides and drivers. In contrast, in rural areas there are fewer people, so it again makes sense that there would be fewer riders and drivers, resulting in the lowest number of rides and drivers. Since supply and demand are higher in the urban areas, the fares do not have to be as high as they are in the suburban and rural areas for PyBer to still make a profit from rides in urban areas. The line graph below shows how urban areas consistently produce the most money (total fares) for PyBer and the rural areas consistently produce the least amount of money (total fares), specifically on a weekly basis between January and April of 2019.
 
 [PyBer Total Fares by City Type](analysis/PyBer_fare_summary.png):  
-![PyBer_fare_summary](https://user-images.githubusercontent.com/86338416/126919215-92aafd65-a91e-414a-beda-246c71787a1c.png)  
+![PyBer_fare_summary](https://user-images.githubusercontent.com/86338416/126919215-92aafd65-a91e-414a-beda-246c71787a1c.png)    
 
+The box-and-whiskers plot below emphasizes how urban areas have the highest number of rides.  
 [PyBer Ride Counts by City Type](analysis/Fig2.png):  
 ![Fig2](https://user-images.githubusercontent.com/86338416/126919315-5e6dd4f1-0821-4ed7-a106-8254ba7236c2.png)  
 
-The box-and-whiskers plot below emphasizes how urban areas have the highest number of rides.  
+The scatter plot shows the average fare against the total number of rides in a city, categorized by city type.   
 [PyBer Ride-Sharing Data (2019)](analysis/Fig1.png):  
-![PyBer Ride-Sharing Data (2019)](https://github.com/madbee99/PyBer_Analysis/blob/main/analysis/Fig1.png)
+![PyBer Ride-Sharing Data (2019)](https://github.com/madbee99/PyBer_Analysis/blob/main/analysis/Fig1.png)  
 
 
 
